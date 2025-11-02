@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+google-generativeai
+google-cloud-documentai
+cloud-sql-python-connector
+SQLAlchemy
+pg8000
+python-dotenv
+python-docx
+PyMuPDF
+fpdf
+python-multipart
